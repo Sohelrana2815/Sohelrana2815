@@ -8,6 +8,8 @@ I'am Sohel Rana, a passionate web developer focused on building web applications
 
 ## 🌟 Featured Projects
 -**[Glow Mart BD](https://glow-mart-bd.web.app/)
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...(https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
