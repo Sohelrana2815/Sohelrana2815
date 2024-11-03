@@ -16,6 +16,11 @@ I'm [Sohel Rana], a web developer with a focus on frontend technologies like Rea
 
 ### 🚀 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sohelrana2815&theme=radical)
+
+
+
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohelrana2815&layout=compact&theme=radical)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...(https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - 👯 I’m looking to collaborate on ...
