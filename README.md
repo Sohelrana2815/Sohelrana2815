@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Sohelrana2815/Sohelrana2815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am Sohel Rana, a passionate web developer focused on building web applications with React, Tailwind CSS, and more.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+-  **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+## 🌟 Featured Projects
+-**[Glow Mart BD](https://glow-mart-bd.web.app/)
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...(https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
