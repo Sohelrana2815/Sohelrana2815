@@ -19,7 +19,8 @@ I'm [Sohel Rana], a web developer with a focus on frontend technologies like Rea
 ## 🚀 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sohelrana2815&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sohelrana2815&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sohelrana2815&theme=github)
+
 
 
 ---
