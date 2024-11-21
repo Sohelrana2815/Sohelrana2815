@@ -1,6 +1,6 @@
 ## Hi I'm Sohel Rana   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-I'm [Sohel Rana], a web developer with a focus on frontend technologies like React and Tailwind CSS, passionate about creating seamless user experiences.
+ a junior MERN Stack developer passionate about building scalable and user-friendly web applications.
 
 
 
