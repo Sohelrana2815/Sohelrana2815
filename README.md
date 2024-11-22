@@ -14,7 +14,7 @@
 
 
 # 🛠 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,expressjs,nodejs,mongodb,firebase,git,github,vscode,&perline=13)](#)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohelrana2815&show_icons=true&theme=radical)
