@@ -2,6 +2,10 @@
 
  A junior MERN Stack developer passionate about building scalable and user-friendly web applications.
 
+- 🌱 Currently learning **TypeScript**.
+- 🛠️ Working on: [Project Name](https://github.com/username/project-name).
+- 💬 Ask me about: **React, Node.js, MongoDB**.
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile).
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
