@@ -4,7 +4,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />My Recent Projects 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 - **[Glow Mart BD](https://glow-mart-bd.web.app/)** - Online store for cosmetics, built with MERN stack .
 - **[Study Flow](https://stydy-flow.web.app/)** - Helps students manage tasks, track progress, and submit assignments. Built with the MERN stack.
 
