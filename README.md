@@ -66,7 +66,7 @@ Feel free to reach out for collaboration or just to say hi:
 ## 📊 GitHub Stats
 
 ### Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Sohelrana2815=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohelrana2815&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### GitHub Stats & Languages
