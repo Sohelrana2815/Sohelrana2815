@@ -66,7 +66,7 @@ Feel free to reach out for collaboration or just to say hi:
 ## 📊 GitHub Stats
 
 ### Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sohelrana2815&theme=react-dark&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Sohelrana2815=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### GitHub Stats & Languages
