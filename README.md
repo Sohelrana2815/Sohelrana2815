@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sohel Rana! 👋
 
 I'm a **MERN Stack Developer** passionate about building dynamic, user-friendly web applications. My expertise includes developing efficient frontends with **React.js**, creating scalable backends using **Node.js**, and managing databases with **MongoDB**. I continuously explore new technologies and take pride in solving real-world problems through clean, maintainable code.
 
