@@ -68,11 +68,11 @@ Feel free to reach out for collaboration or just to say hi:
 ## 📊 GitHub Stats
 
 ### Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?Sohelrana2815=Sohelrana2815&theme=react-dark&hide_border=true)
 
 ### GitHub Stats & Languages
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Sohelrana2815=Sohelrana2815&show_icons=true&hide=issues&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Sohelrana2815=Sohelrana2815&layout=compact&theme=radical)
 
 ---
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊
