@@ -1,6 +1,6 @@
 # Hi... I'm Sohel Rana! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-I'm a **MERN Stack Developer** passionate about building dynamic, user-friendly web applications. My expertise includes developing efficient frontends with **React.js**, creating scalable backends using **Node.js**, and managing databases with **MongoDB**. I continuously explore new technologies and take pride in solving real-world problems through clean, maintainable code.
+I'm a MERN Stack Developer focused on building dynamic and user-friendly web applications. I work with React.js for frontends, Node.js for backends, and MongoDB for databases. I enjoy learning and improving my skills through practical problem-solving.
 
 ---
 
