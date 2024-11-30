@@ -34,7 +34,6 @@ Feel free to reach out for collaboration or just to say hi:
 - **[Blog CMS](https://github.com/yourusername/blog-cms)**: A CMS for blog creation with a rich text editor.
 
 ---
-
 ## 🛠️ Skills, Languages & Tools
 
 [![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)](https://www.javascript.com)
@@ -50,7 +49,7 @@ Feel free to reach out for collaboration or just to say hi:
 [![Git](https://img.icons8.com/color/48/git.png)](https://git-scm.com)
 [![GitHub](https://img.icons8.com/ios-glyphs/48/ffffff/github.png)](https://github.com)
 [![Netlify](https://img.icons8.com/color/48/netlify.png)](https://www.netlify.com)
-[![Vercel](https://img.icons8.com/color/48/vercel.png)](https://vercel.com)
+[![Vercel](https://img.icons8.com/ios-filled/48/000000/vercel.png)](https://vercel.com)
 [![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)](https://code.visualstudio.com)
 [![Figma](https://img.icons8.com/color/48/figma--v1.png)](https://figma.com)
 
