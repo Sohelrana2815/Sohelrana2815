@@ -49,8 +49,8 @@ Feel free to reach out for collaboration or just to say hi:
 [![Firebase](https://img.icons8.com/color/48/firebase.png)](https://firebase.google.com)
 [![Git](https://img.icons8.com/color/48/git.png)](https://git-scm.com)
 [![GitHub](https://img.icons8.com/ios-glyphs/48/ffffff/github.png)](https://github.com)
-[![Netlify](https://www.netlify.com/img/netlify-logo.svg)](https://www.netlify.com)
-[![Vercel](https://upload.vercel.com/brand/Vercel-Logo.svg)](https://vercel.com)
+[![Netlify](https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png)](https://www.netlify.com)
+[![Vercel](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Vercel_logo_black.svg/120px-Vercel_logo_black.svg.png)](https://vercel.com)
 [![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)](https://code.visualstudio.com)
 [![Figma](https://img.icons8.com/color/48/figma--v1.png)](https://figma.com)
 
