@@ -44,7 +44,7 @@ Feel free to reach out for collaboration or just to say hi:
 [![React](https://img.icons8.com/color/48/react-native.png)](https://reactjs.org)
 [![TailwindCSS](https://img.icons8.com/color/48/tailwindcss.png)](https://tailwindcss.com)
 [![Node.js](https://img.icons8.com/color/48/nodejs.png)](https://nodejs.org)
-[![Express.js](https://img.icons8.com/ios/48/000000/express-js.png)](https://expressjs.com)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 [![MongoDB](https://img.icons8.com/color/48/mongodb.png)](https://www.mongodb.com)
 [![Firebase](https://img.icons8.com/color/48/firebase.png)](https://firebase.google.com)
 [![Git](https://img.icons8.com/color/48/git.png)](https://git-scm.com)
