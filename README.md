@@ -8,7 +8,7 @@ I'm a **MERN Stack Developer** passionate about building dynamic, user-friendly 
 
 Feel free to reach out for collaboration or just to say hi:
 
-[![Facebook](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.facebook.com/sha.dat.5036)  
+[![Facebook](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sha.dat.5036)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.linkedin.com/in/sohel-rana-93423a2ba/)
