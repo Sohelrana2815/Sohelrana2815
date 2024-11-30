@@ -46,4 +46,6 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 
 [![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=Sohelrana2815&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
