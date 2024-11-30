@@ -37,23 +37,7 @@ Feel free to reach out for collaboration or just to say hi:
 
 ## 🛠️ Languages & Tools
 
-[![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)](https://www.javascript.com)
-[![TypeScript](https://img.icons8.com/color/48/typescript.png)](https://www.typescriptlang.org)
-[![HTML5](https://img.icons8.com/color/48/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.icons8.com/color/48/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.icons8.com/color/48/react-native.png)](https://reactjs.org)
-[![TailwindCSS](https://img.icons8.com/color/48/tailwindcss.png)](https://tailwindcss.com)
-[![Node.js](https://img.icons8.com/color/48/nodejs.png)](https://nodejs.org)
-[![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)](https://expressjs.com)
-[![MongoDB](https://img.icons8.com/color/48/mongodb.png)](https://www.mongodb.com)
-[![Firebase](https://img.icons8.com/color/48/firebase.png)](https://firebase.google.com)
-[![Git](https://img.icons8.com/color/48/git.png)](https://git-scm.com)
-[![GitHub](https://img.icons8.com/ios-glyphs/48/ffffff/github.png)](https://github.com)
-
-[![Vercel](https://upload.vercel.com/brand/Vercel-Logo.svg)](https://vercel.com)
-
-[![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)](https://code.visualstudio.com)
-[![Figma](https://img.icons8.com/color/48/figma--v1.png)](https://figma.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 
 ## 📊 GitHub Stats
