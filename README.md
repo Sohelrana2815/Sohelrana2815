@@ -38,15 +38,15 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,expressjs,nodejs,mongodb,firebase,netlify,vercel,git,github,vscode,figma,stackoverflow&perline=13)](#)
 
 
+
+
 ## 📊 GitHub Stats
 
+
 ### Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohelrana2815&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-### GitHub Stats & Languages
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohelrana2815&show_icons=true&hide=issues&count_private=true&theme=radical)  
+ [![Sohel Rana github stats](https://bad-apple-github-readme.vercel.app/api?username=Sohelrana2815&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Sohelrana2815&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohelrana2815&layout=compact&theme=radical)
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=Sohelrana2815&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊
