@@ -4,9 +4,8 @@ I'm a MERN Stack Developer focused on building dynamic and user-friendly web app
 
 ---
 
-## 📫 Contact Me
-
-Feel free to reach out for collaboration or just to say hi:
+📫 Get in Touch
+I'd love to hear from you! Whether you want to collaborate or just say hello, feel free to reach out:
 
 [![Facebook](https://img.icons8.com/color/48/facebook-circled--v1.png)](https://www.facebook.com/sha.dat.5036)
 [![Gmail](https://img.icons8.com/color/48/gmail.png)](mailto:your.email@gmail.com)
