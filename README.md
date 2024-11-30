@@ -37,7 +37,7 @@ Feel free to reach out for collaboration or just to say hi:
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,expressjs,nodejs,mongodb,firebase,netlify,git,github,vscode,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,expressjs,nodejs,mongodb,firebase,netlify,vercel,git,github,vscode,stackoverflow&perline=13)](#)
 
 
 ## 📊 GitHub Stats
