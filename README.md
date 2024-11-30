@@ -7,12 +7,8 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 📫 Get in Touch
 
 [![Facebook](https://img.icons8.com/color/48/facebook-circled--v1.png)](https://www.facebook.com/sha.dat.5036)
-[![Gmail](https://img.icons8.com/color/48/gmail.png)](mailto:your.email@gmail.com)
-[![Twitter](https://img.icons8.com/color/48/twitter-circled.png)](https://twitter.com/yourusername)
+[![Gmail](https://img.icons8.com/color/48/gmail.png)](mailto:sohel152302@gmail.com)
 [![LinkedIn](https://img.icons8.com/color/48/linkedin-circled.png)](https://www.linkedin.com/in/sohel-rana-93423a2ba/)
-
-
-
 
 
 ---
