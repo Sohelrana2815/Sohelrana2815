@@ -19,7 +19,7 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 - **[Easy Hire](https://easy-hire-e14d3.web.app/)**: Easy Hire: A dynamic platform for job posting, bidding, and managing job requests, including bid acceptance and rejection.
 - **[Study Flow](https://stydy-flow.web.app/)**: Study Flow: A versatile MERN stack platform for managing study tasks and assignments, where users can add, remove, solve tasks, and receive marks from teachers or admins.
 ### React.js Projects
-- **[Portfolio Website](https://github.com/yourusername/portfolio)**: Personal portfolio built with React and styled-components.
+- **[Food Corner](https://present-jam.surge.sh/)**: A simple React project displaying a list of available foods, allowing users to add items and view a table with names, time, calories, and total details. 🍽️
 - **[Task Manager](https://github.com/yourusername/task-manager)**: A simple task management application with a focus on UX.
 
 ### Other Projects
