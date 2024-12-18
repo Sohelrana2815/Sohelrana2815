@@ -43,7 +43,7 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Sohelrana2815&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=Sohelrana2815&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![SOHEL RANA current streak](https://streak-stats.demolab.com/?user=Sohelrana2815&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
