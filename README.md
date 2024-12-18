@@ -16,7 +16,7 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 ## 🌟 Projects
 
 ### MERN Stack Projects
-- **[E-Commerce App](https://github.com/yourusername/ecommerce-app)**: A fully-featured e-commerce platform with cart, authentication, and payment integration.
+- **[Easy Hire](https://github.com/yourusername/ecommerce-app)**: Easy Hire: A dynamic platform for job posting, bidding, and managing job requests, including bid acceptance and rejection.
 - **[Social Media App](https://github.com/yourusername/social-media-app)**: A social media platform with real-time chat, posts, and likes.
 
 ### React.js Projects
