@@ -39,12 +39,13 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 
 
 ### Contribution Graph
-[![Sohel Rana github stats](https://bad-apple-github-readme.vercel.app/api?username=Sohelrana2815&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![SOHEL RANA github stats](https://bad-apple-github-readme.vercel.app/api?username=Sohelrana2815&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Sohelrana2815&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![SOHEL RANA current streak](https://streak-stats.demolab.com/?user=Sohelrana2815&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+[![SOHEL RANA github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohelrana2815&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
