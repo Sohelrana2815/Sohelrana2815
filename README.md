@@ -43,7 +43,7 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Sohelrana2815&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![SOHEL RANA current streak](https://streak-stats.demolab.com/?user=Sohelrana2815&theme=hacker)](https://git.io/streak-stats)(#)
+[![SOHEL RANA current streak](https://streak-stats.demolab.com/?user=Sohelrana2815&theme=hacker)](https://git.io/streak-stats)
 
 [![SOHEL RANA github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sohelrana2815&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
