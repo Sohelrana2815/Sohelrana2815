@@ -16,17 +16,14 @@ A MERN Stack Developer focused on building dynamic and user-friendly web applica
 ## 🌟 Projects
 
 ### MERN Stack Projects
-- **[Easy Hire](https://easy-hire-e14d3.web.app/)**: Easy Hire: A dynamic platform for job posting, bidding, and managing job requests, including bid acceptance and rejection.
-- **[Study Flow](https://stydy-flow.web.app/)**: Study Flow: A versatile MERN stack platform for managing study tasks and assignments, where users can add, remove, solve tasks, and receive marks from teachers or admins.
+- **[Daily Lens](https://daily-lens-90dd8.web.app/)**: A full-stack newspaper platform with dynamic article publishing, user subscriptions, admin moderation, and a responsive design, built using React.js, Node.js, Express, and MongoDB.
+- **[Easy Hire](https://easy-hire-e14d3.web.app/)**: A dynamic platform for job posting, bidding, and managing job requests, including bid acceptance and rejection.
+- **[Glow Mart BD](https://glow-mart-bd.web.app/)**: is a cosmetic e-commerce platform offering seamless shopping for users and advanced sales management tools for admins.
+- **[Study Flow](https://stydy-flow.web.app/)**: A versatile MERN stack platform for managing study tasks and assignments, where users can add, remove, solve tasks, and receive marks from teachers or admins.
 ### React.js Projects
+- **[Gov Real Estate](https://gov-real-estate.web.app/)**: A React-based platform showcasing government and public real estate properties with secure user authentication, detailed property views, and dynamic data management.
 - **[Food Corner](https://present-jam.surge.sh/)**: A simple React project displaying a list of available foods, allowing users to add items and view a table with names, time, calories, and total details. 🍽️
-- **[Task Manager](https://github.com/yourusername/task-manager)**: A simple task management application with a focus on UX.
 
-### Other Projects
-- **[API Service](https://github.com/yourusername/api-service)**: REST API for managing inventory using Express.js and MongoDB.
-- **[Blog CMS](https://github.com/yourusername/blog-cms)**: A CMS for blog creation with a rich text editor.
-
----
 
 ## 🛠️ Languages & Tools
 
