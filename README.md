@@ -1,5 +1,9 @@
 # Hi.. I'm Sohel Rana! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+
+<small>
 As a developer, my focus is on building engaging and intuitive web applications. I embrace every challenge as an opportunity for problem-solving and am dedicated to lifelong learning, constantly refining my craft.
+</small>
+
 ---
 
 📫 Get in Touch
