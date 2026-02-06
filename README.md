@@ -27,7 +27,7 @@ As a developer, my focus is on building engaging and intuitive web applications.
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,expressjs,nodejs,mongodb,firebase,netlify,vercel,git,github,vscode,figma,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,next,redux,expressjs,nodejs,mongodb,postgres,firebase,netlify,vercel,git,github,vscode,figma,aws,graphql,docker,stackoverflow&perline=13)](#)
 
 
 
