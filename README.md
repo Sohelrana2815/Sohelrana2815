@@ -1,8 +1,11 @@
-# Hi.. I'm Sohel Rana! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi there, I'm Sohel! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 <p>
-As a developer, my focus is on building engaging and intuitive web applications. I embrace every challenge as an opportunity for problem-solving and am dedicated to lifelong learning, constantly refining my craft.
+A results-oriented <b>Full-Stack Web Developer</b> specializing in building scalable, secure, and user-centric applications. Recently completed the "Commercial Software Development - JavaScript" program with <b>Itransition</b>, mastering industry-standard SDLC practices and clean code architecture.
 </p>
+
+- 🚀 Currently: Exploring advanced performance optimization in Next.js 16 and React 19.
+- 🛠️ Core Expertise: Secure RBAC, Complex State Management (RTK Query), and Payment Integrations.
 
 ---
 
@@ -12,18 +15,32 @@ As a developer, my focus is on building engaging and intuitive web applications.
 [![LinkedIn](https://img.icons8.com/color/48/linkedin-circled.png)](https://www.linkedin.com/in/sohel-rana-93423a2ba/)
 
 ---
+		
+## 🌟 Featured Projects
+**🗺️[Root Guide | Local Guide & Tour Platform](https://root-guide-frontend.vercel.app/)**: An enterprise-grade platform connecting tourists with local guides, featuring secure financial workflows.
+- Tech Stack: Next.js 16 (App Router), TypeScript, Prisma, PostgreSQL, Tailwind CSS v4, SSLCommerz.
+- Key Features:
+  - Multi-Role Dashboards: Specialized interfaces for Tourists, Guides, and Admins using Recharts for real-time analytics.
+  - Secure Payments: Integrated SSLCommerz with IPN support to automate booking confirmations.
+  - Advanced Search: Built a high-performance filtering engine for tours and guide availability.
+- Links: [Frontend Repo](https://github.com/Sohelrana2815/root-guide-frontend) | [Backend Repo](https://github.com/Sohelrana2815/root-guide-backend)
 
-## 🌟 Projects
 
-### MERN Stack Projects
-- **[Daily Lens](https://daily-lens-90dd8.web.app/)**: A full-stack newspaper platform with dynamic article publishing, user subscriptions, admin moderation, and a responsive design, built using React.js, Node.js, Express, and MongoDB.
-- **[Easy Hire](https://easy-hire-e14d3.web.app/)**: A dynamic platform for job posting, bidding, and managing job requests, including bid acceptance and rejection.
-- **[Glow Mart BD](https://glow-mart-bd.web.app/)**: is a cosmetic e-commerce platform offering seamless shopping for users and advanced sales management tools for admins.
-- **[Study Flow](https://stydy-flow.web.app/)**: A versatile MERN stack platform for managing study tasks and assignments, where users can add, remove, solve tasks, and receive marks from teachers or admins.
-### React.js Projects
-- **[Gov Real Estate](https://gov-real-estate.web.app/)**: A React-based platform showcasing government and public real estate properties with secure user authentication, detailed property views, and dynamic data management.
-- **[Food Corner](https://present-jam.surge.sh/)**: A simple React project displaying a list of available foods, allowing users to add items and view a table with names, time, calories, and total details. 🍽️
+**🚚[CourierPro | Advanced Courier Management](https://l2-b5-a6-courier-pro-api-frontend.vercel.app/)**: A high-security logistics engine designed to manage parcel lifecycles across three distinct user roles.
+- Tech Stack: React 19, Redux Toolkit, RTK Query, Node.js, MongoDB, JWT.
+- Key Features:
+  - Optimized Performance: Leveraged RTK Query for autonomous caching, reducing redundant API calls by 40%.
+  - Secure RBAC: Implemented JWT-based authentication ensuring 100% data isolation for Admin, Sender, and Receiver roles.
+  - Logistics Engine: Programmatic tracking ID generation and automated weight-based fee calculations.
+- Links: [Frontend Repo](https://github.com/Sohelrana2815/courier-pro-frontend) | [Backend Repo](https://github.com/Sohelrana2815/courier-pro-backend)
 
+<!-- This is a single-line comment -->
+
+### 📂 Other Notable Projects
+- **[Daily Lens](https://daily-lens-90dd8.web.app/)**: Full-stack newspaper platform with subscription-based access.
+- **[Easy Hire](https://easy-hire-e14d3.web.app/)**: Job bidding platform with real-time status management.
+- **[Glow Mart BD](https://glow-mart-bd.web.app/)**: Cosmetic E-commerce with advanced sales management tools.
+- **[Study Flow](https://stydy-flow.web.app/)**: Educational management system for task solving and marking.
 
 ## 🛠️ Languages & Tools
 
