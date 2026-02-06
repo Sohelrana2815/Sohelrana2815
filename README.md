@@ -44,7 +44,7 @@ A results-oriented <b>Full-Stack Web Developer</b> specializing in building scal
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,next,redux,expressjs,nodejs,mongodb,postgres,firebase,netlify,vercel,git,github,vscode,figma,aws,graphql,docker,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,next,redux,expressjs,nodejs,mongodb,postgres,prisma,firebase,netlify,vercel,git,github,vscode,figma,aws,graphql,docker,stackoverflow&perline=13)](#)
 
 
 
