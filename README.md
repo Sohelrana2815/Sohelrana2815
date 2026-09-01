@@ -15,39 +15,6 @@ A results-oriented <b>Full-Stack Web Developer</b> specializing in building scal
 [![LinkedIn](https://img.icons8.com/color/48/linkedin-circled.png)](https://www.linkedin.com/in/sohel-rana-93423a2ba/)
 
 ---
-		
-## 🌟 Featured Projects
-**🗺️[Root Guide | Local Guide & Tour Platform](https://root-guide-frontend.vercel.app/)**: An enterprise-grade platform connecting tourists with local guides, featuring secure financial workflows.
-- Tech Stack: Next.js 16 (App Router), TypeScript, Prisma, PostgreSQL, Tailwind CSS v4, SSLCommerz.
-- Key Features:
-  - Multi-Role Dashboards: Specialized interfaces for Tourists, Guides, and Admins using Recharts for real-time analytics.
-  - Secure Payments: Integrated SSLCommerz with IPN support to automate booking confirmations.
-  - Advanced Search: Built a high-performance filtering engine for tours and guide availability.
-- Links: [Frontend Repo](https://github.com/Sohelrana2815/root-guide-frontend) | [Backend Repo](https://github.com/Sohelrana2815/root-guide-backend)
-
-
-**🚚[CourierPro | Advanced Courier Management](https://l2-b5-a6-courier-pro-api-frontend.vercel.app/)**: A high-security logistics engine designed to manage parcel lifecycles across three distinct user roles.
-- Tech Stack: React 19, Redux Toolkit, RTK Query, Node.js, MongoDB, JWT.
-- Key Features:
-  - Optimized Performance: Leveraged RTK Query for autonomous caching, reducing redundant API calls by 40%.
-  - Secure RBAC: Implemented JWT-based authentication ensuring 100% data isolation for Admin, Sender, and Receiver roles.
-  - Logistics Engine: Programmatic tracking ID generation and automated weight-based fee calculations.
-- Links: [Frontend Repo](https://github.com/Sohelrana2815/courier-pro-frontend) | [Backend Repo](https://github.com/Sohelrana2815/courier-pro-backend)
-
-<!-- This is a single-line comment -->
-
-### 📂 Other Notable Projects
-- **[Daily Lens](https://daily-lens-90dd8.web.app/)**: Full-stack newspaper platform with subscription-based access.
-- **[Easy Hire](https://easy-hire-e14d3.web.app/)**: Job bidding platform with real-time status management.
-- **[Glow Mart BD](https://glow-mart-bd.web.app/)**: Cosmetic E-commerce with advanced sales management tools.
-- **[Study Flow](https://stydy-flow.web.app/)**: Educational management system for task solving and marking.
-
-## 🛠️ Languages & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,next,redux,expressjs,nodejs,mongodb,postgres,prisma,firebase,netlify,vercel,git,github,vscode,figma,aws,graphql,docker,stackoverflow&perline=13)](#)
-
-
-
 
 ## 📊 GitHub Stats
 
