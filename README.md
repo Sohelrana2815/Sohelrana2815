@@ -1,13 +1,17 @@
-# Hi there, I'm Sohel! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi there, I'm MD. Sohel Rana 👋
 
-<p>
-A results-oriented <b>Full-Stack Web Developer</b> specializing in building scalable, secure, and user-centric applications. Recently completed the "Commercial Software Development - JavaScript" program with <b>Itransition</b>, mastering industry-standard SDLC practices and clean code architecture.
-</p>
+I'm a **Full-Stack Web Developer** passionate about building modern, scalable, and user-friendly web applications.
 
-- 🚀 Currently: Exploring advanced performance optimization in Next.js 16 and React 19.
-- 🛠️ Core Expertise: Secure RBAC, Complex State Management (RTK Query), and Payment Integrations.
+* 🚀 Currently learning and exploring **Next.js, React, and TypeScript**
+* 🛠️ Experienced with **Next.js, React, Node.js, PostgreSQL, Prisma, and REST APIs**
+* 💳 Interested in building **e-commerce platforms, authentication systems, and payment integrations**
+* 🌱 Always learning and improving my development skills
 
----
+## 📫 Get in Touch
+
+[![Gmail](https://img.icons8.com/color/48/gmail.png)](mailto:sohelranamoon.dev@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin-circled.png)](https://www.linkedin.com/in/sohel-rana-93423a2ba/)
+
 
 📫 Get in Touch
 
