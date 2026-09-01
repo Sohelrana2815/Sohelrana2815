@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer passionate about building reliable, scalable, and user-friendly web applications.
 
-* 💻 **Technologies I use to build applications:** Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, and REST APIs
+* 💻 **Technologies I use to build applications:** Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, MongoDB, Mongoose etc.
 * 🧩 **Focused on:** Building reliable, scalable applications and solving real problems
 * 🌱 **Always eager to learn and improve my skills**
 
