@@ -11,7 +11,7 @@ A results-oriented <b>Full-Stack Web Developer</b> specializing in building scal
 
 📫 Get in Touch
 
-[![Gmail](https://img.icons8.com/color/48/gmail.png)](mailto:sohel152302@gmail.com)
+[![Gmail](https://img.icons8.com/color/48/gmail.png)](mailto:sohelranamoon.dev@gmail.com)
 [![LinkedIn](https://img.icons8.com/color/48/linkedin-circled.png)](https://www.linkedin.com/in/sohel-rana-93423a2ba/)
 
 ---
