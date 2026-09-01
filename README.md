@@ -13,13 +13,6 @@ I'm a **Full-Stack Web Developer** passionate about building modern, scalable, a
 [![LinkedIn](https://img.icons8.com/color/48/linkedin-circled.png)](https://www.linkedin.com/in/sohel-rana-93423a2ba/)
 
 
-📫 Get in Touch
-
-[![Gmail](https://img.icons8.com/color/48/gmail.png)](mailto:sohelranamoon.dev@gmail.com)
-[![LinkedIn](https://img.icons8.com/color/48/linkedin-circled.png)](https://www.linkedin.com/in/sohel-rana-93423a2ba/)
-
----
-
 ## 📊 GitHub Stats
 
 
