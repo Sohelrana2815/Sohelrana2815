@@ -1,4 +1,4 @@
-# Hello, I'm MD. Sohel Rana 👋
+# Hi, I'm MD. Sohel Rana 👋
 
 I'm a Full-Stack Web Developer passionate about building reliable, scalable, and user-friendly web applications.
 
