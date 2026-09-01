@@ -1,10 +1,10 @@
 # Hello, I'm MD. Sohel Rana 👋
 
 I'm a Full-Stack Web Developer passionate about building reliable, scalable, and user-friendly web applications.
-* 🚀 Currently learning and exploring **Next.js, React, and TypeScript**
-* 🛠️ Experienced with **Next.js, React, Node.js, PostgreSQL, Prisma, and REST APIs**
-* 💳 Interested in building **e-commerce platforms, authentication systems, and payment integrations**
-* 🌱 Always learning and improving my development skills
+
+* 💻 **Technologies I use to build applications:** Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, and REST APIs
+* 🧩 **Focused on:** Building reliable, scalable applications and solving real problems
+* 🌱 **Always eager to learn and improve my skills**
 
 ## 📫 Get in Touch
 
